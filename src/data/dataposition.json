@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Demo - Giảng Võ",
+    "address": "111-112 Giảng Võ",
+    "timeOpen": "09:00-22:00",
+    "phoneNumber": "024 xxx xxx",
+    "city": "Hà Nội",
+    "district": "Ba Đình"
+  },
+  {
+    "name": "Demo - Chùa Bộc",
+    "address": "111-112 Chùa Bộc",
+    "timeOpen": "09:00-22:00",
+    "phoneNumber": "024 xxx xxx",
+    "city": "Hà Nội",
+    "district": "Đống Đa"
+  },
+  {
+    "name": "Demo - Nguyễn Văn Cừ",
+    "address": "111-112 Nguyễn Văn Cừ",
+    "timeOpen": "09:00-22:00",
+    "phoneNumber": "024 xxx xxx",
+    "city": "Hà Nội",
+    "district": "Long Biên"
+  },
+  {
+    "name": "Demo - Việt Trì",
+    "address": "111-112 Nguyễn Hoàng",
+    "timeOpen": "09:00-22:00",
+    "phoneNumber": "024 xxx xxx",
+    "city": "Phú Thọ",
+    "district": "Tp Việt Trì"
+  },
+  {
+    "name": "Demo - Hải Hậu",
+    "address": "111-112 Hải Hậu",
+    "timeOpen": "09:00-22:00",
+    "phoneNumber": "024 xxx xxx",
+    "city": "Nam Định",
+    "district": "Hải Hậu"
+  }
+]
